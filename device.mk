@@ -7,7 +7,7 @@ PRODUCT_AAPT_CONFIG := normal xhdpi xxhdpi
 PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 
 # Recovery allowed devices
-TARGET_OTA_ASSERT_DEVICE := nikel
+TARGET_OTA_ASSERT_DEVICE :=  
 
 PRODUCT_PACKAGES += \
    libmtk_symbols \
@@ -15,7 +15,7 @@ PRODUCT_PACKAGES += \
    
 # Kernel
 ifeq ($(TARGET_PREBUILT_KERNEL),)
-	LOCAL_KERNEL := device/xiaomi/nikel/prebuilt/kernel
+	LOCAL_KERNEL := device/xiaomi/omega/prebuilt/kernel
 else
 	LOCAL_KERNEL := $(TARGET_PREBUILT_KERNEL)
 endif
@@ -90,7 +90,7 @@ PRODUCT_PACKAGES += \
 $(call inherit-product, frameworks/native/build/phone-xxhdpi-3072-dalvik-heap.mk)
 
 # Common stuff
-$(call inherit-product, device/xiaomi/nikel/common.mk)
+$(call inherit-product, device/xiaomi/omega/common.mk)
 
 # Vendor
-$(call inherit-product, vendor/xiaomi/nikel/nikel-vendor.mk)
+$(call inherit-product, vendor/xiaomi/omega/nikel-vendor.mk)
