@@ -1,5 +1,5 @@
 # Release Name
-PRODUCT_RELEASE_NAME := Redmi  
+PRODUCT_RELEASE_NAME := Redmi Pro
 # Inherit some common lineage stuff.
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
