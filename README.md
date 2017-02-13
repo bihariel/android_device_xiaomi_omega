@@ -40,3 +40,10 @@ https://github.com/Goayandi/lineageos/  Branch:  omega-14.1
 # limitations under the License.
 #
 ```
+
+## Thanks:
+
+M.A.D. - https://github.com/MediatekAndroidDevelopers
+( superdragonpt, DerTeufel1980, fire855)
+
+AdrianoMartins - https://github.com/AdrianoMartins
