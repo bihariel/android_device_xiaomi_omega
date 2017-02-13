@@ -93,4 +93,4 @@ $(call inherit-product, frameworks/native/build/phone-xxhdpi-3072-dalvik-heap.mk
 $(call inherit-product, device/xiaomi/omega/common.mk)
 
 # Vendor
-$(call inherit-product, vendor/xiaomi/omega/nikel-vendor.mk)
+$(call inherit-product, vendor/xiaomi/omega/omega-vendor.mk)

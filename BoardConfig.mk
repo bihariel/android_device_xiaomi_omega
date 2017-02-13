@@ -1,5 +1,5 @@
 # mt6797 platform boardconfig
-LOCAL_PATH := device/xiaomi/ omega
+LOCAL_PATH := device/xiaomi/omega
 include device/xiaomi/omega/board.mk
 
 # Platform

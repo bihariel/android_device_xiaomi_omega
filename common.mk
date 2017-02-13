@@ -60,4 +60,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += BUILD_UTC_DATE=0
 include device/xiaomi/omega/permissions.mk
 include device/xiaomi/omega/media.mk
 include device/xiaomi/omega/wifi.mk
-include device/xiaomi//telephony.mk
+include device/xiaomi/omega/telephony.mk

@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cm_omega.mk
+    $(LOCAL_DIR)/lineage_omega.mk
