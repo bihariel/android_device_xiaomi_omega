@@ -19,7 +19,7 @@ https://github.com/Goayandi/lineageos/
 | Release Date            | June, 2016                        |
 
 ## Device Picture
-![Xiaomi MiPad ](https://images-eu.ssl-images-amazon.com/images/I/41tGAo7m-nL._SY300_.jpg "Xiaomi MiPad")
+![Xiaomi Redmi Pro ](http://img.banggood.com/thumb/large/oaupload/banggood/images/58/D7/b0fe212e-dc21-4785-9e49-50993ae031c3.jpg "Xiaomi Redmi Pro")
 
 ## Copyright
 
