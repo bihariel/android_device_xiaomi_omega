@@ -1,7 +1,7 @@
 # Device configuration for Xiaomi Redmi Pro (Codename: Omega)
 
 Build LineageOS for Xiaomi Redmi Pro 
-https://github.com/Goayandi/lineageos/
+https://github.com/Goayandi/lineageos/  Branch:  omega-14.1
 
 ## Spec Sheet
 | Feature                 | Specification                     |
@@ -15,7 +15,7 @@ https://github.com/Goayandi/lineageos/
 | MicroSD                 | Up to 128GB                       |
 | Battery                 | 4200 mAh                          |
 | Dimentions              | 151.5 x 76.2 x 8.2 mm             |
-| Display                 | 1080 x 1920 pixels                |
+| Display                 | 1080 x 1920 pixels AMOLED.        |
 | Release Date            | June, 2016                        |
 
 ## Device Picture
